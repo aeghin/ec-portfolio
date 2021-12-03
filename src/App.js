@@ -5,7 +5,7 @@ import AboutMe from './pages/AboutMe/AboutMe';
 import Projects from "./pages/Projects/Projects";
 import Resume from "./pages/Resume/Resume";
 import Contact from "./pages/Contact/Contact";
-
+import Footer from "./pages/Footer/Footer";
 
 function App() {
   return (
@@ -24,6 +24,7 @@ function App() {
       <Route exact path="/contact">
         <Contact />
       </Route>
+      <Footer />
     </Router>
 
 
