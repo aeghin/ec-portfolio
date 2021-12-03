@@ -1,5 +1,5 @@
 
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from './components/Navbar/Navbar';
 import AboutMe from './pages/AboutMe/AboutMe';
 import Projects from "./pages/Projects/Projects";
@@ -12,7 +12,7 @@ function App() {
     <Router basename={process.env.PUBLIC_URL}>
       <Navbar />
 
-      <Route exact path="/home">
+      <Route exact path={["/", "/home"]}>
         <AboutMe />
       </Route>
       <Route exact path="/projects">
