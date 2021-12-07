@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/ec-portfolio/static/css/main.97484121.chunk.css",
-    "main.js": "/ec-portfolio/static/js/main.1c0f50e5.chunk.js",
-    "main.js.map": "/ec-portfolio/static/js/main.1c0f50e5.chunk.js.map",
+    "main.css": "/ec-portfolio/static/css/main.0d70c43c.chunk.css",
+    "main.js": "/ec-portfolio/static/js/main.54cafb7f.chunk.js",
+    "main.js.map": "/ec-portfolio/static/js/main.54cafb7f.chunk.js.map",
     "runtime-main.js": "/ec-portfolio/static/js/runtime-main.febf505f.js",
     "runtime-main.js.map": "/ec-portfolio/static/js/runtime-main.febf505f.js.map",
     "static/css/2.383c0125.chunk.css": "/ec-portfolio/static/css/2.383c0125.chunk.css",
-    "static/js/2.bbc00cc3.chunk.js": "/ec-portfolio/static/js/2.bbc00cc3.chunk.js",
-    "static/js/2.bbc00cc3.chunk.js.map": "/ec-portfolio/static/js/2.bbc00cc3.chunk.js.map",
+    "static/js/2.a22be41e.chunk.js": "/ec-portfolio/static/js/2.a22be41e.chunk.js",
+    "static/js/2.a22be41e.chunk.js.map": "/ec-portfolio/static/js/2.a22be41e.chunk.js.map",
     "index.html": "/ec-portfolio/index.html",
     "static/css/2.383c0125.chunk.css.map": "/ec-portfolio/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.97484121.chunk.css.map": "/ec-portfolio/static/css/main.97484121.chunk.css.map",
-    "static/js/2.bbc00cc3.chunk.js.LICENSE.txt": "/ec-portfolio/static/js/2.bbc00cc3.chunk.js.LICENSE.txt"
+    "static/css/main.0d70c43c.chunk.css.map": "/ec-portfolio/static/css/main.0d70c43c.chunk.css.map",
+    "static/js/2.a22be41e.chunk.js.LICENSE.txt": "/ec-portfolio/static/js/2.a22be41e.chunk.js.LICENSE.txt",
+    "static/media/IMG_1446.a52c369a.jpg": "/ec-portfolio/static/media/IMG_1446.a52c369a.jpg",
+    "static/media/WeatherDash.8df3c312.png": "/ec-portfolio/static/media/WeatherDash.8df3c312.png",
+    "static/media/codeQuiz.2866681c.png": "/ec-portfolio/static/media/codeQuiz.2866681c.png",
+    "static/media/dailyplanner.581e11a3.png": "/ec-portfolio/static/media/dailyplanner.581e11a3.png",
+    "static/media/foodapi.dc7bc9a3.png": "/ec-portfolio/static/media/foodapi.dc7bc9a3.png",
+    "static/media/journal.6df65e00.png": "/ec-portfolio/static/media/journal.6df65e00.png",
+    "static/media/passwordGenerator.da619cb9.png": "/ec-portfolio/static/media/passwordGenerator.da619cb9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.febf505f.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.bbc00cc3.chunk.js",
-    "static/css/main.97484121.chunk.css",
-    "static/js/main.1c0f50e5.chunk.js"
+    "static/js/2.a22be41e.chunk.js",
+    "static/css/main.0d70c43c.chunk.css",
+    "static/js/main.54cafb7f.chunk.js"
   ]
 }
