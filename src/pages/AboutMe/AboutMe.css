@@ -1,5 +1,11 @@
 .test1 {
     text-align: center;
-    margin-top: 20vh;
+    margin-top: 10vh;
     justify-content:space-between;
+}
+
+img {
+    border-radius: 50%;
+    width:300px;
+    height: 300px;
 }

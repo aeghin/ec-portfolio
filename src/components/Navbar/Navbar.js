@@ -17,9 +17,9 @@ function Navbar() {
                     <li className="nav-item">
                         <Link className="nav-link resume-btn" to="/resume">Resume</Link>
                     </li>
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                         <Link className="nav-link contact-btn" to="/contact">Contact Me</Link>
-                    </li>
+                    </li> */}
                 </div>
             </div>
         </nav>

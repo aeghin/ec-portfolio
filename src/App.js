@@ -21,10 +21,9 @@ function App() {
       <Route exact path="/resume">
         <Resume />
       </Route>
-      <Route exact path="/contact">
-        <Contact />
-      </Route>
+
       <Footer />
+
     </Router>
 
 
